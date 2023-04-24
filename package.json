@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "readme": "git_repo/readme.md",
+  "type": "module",
+  "author": {
+    "name": "rwietter",
+    "email": "rwietter@zohomail.com",
+    "url": "http://rwietter.netlify.com/"
+  },
+  "repository": {
+    "url": "git@github.com:rwietter/rwietter.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "glob": "^7.2.0",
+    "node-fetch": "2",
+    "request": "^2.88.2",
+    "sharp": "^0.30.2",
+    "uuid": "^8.3.2",
+    "zx": "^6.0.6",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "scripts": {
+    "dev": "node src/index.mjs"
+  }
+}

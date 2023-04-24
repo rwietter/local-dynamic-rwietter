@@ -1,9 +1,10 @@
-
+const template = (...properties) => {
+  const [props] = properties;
+  return `
   <div align="center">
     <h2> Maurício Witter 🍀 </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
-    <p>🌔 Lua Crescente (0.123)
-</p>
+    <p>${props.moonphase}</p>
   </div>
       
   <div align="center">
@@ -36,22 +37,16 @@
       <code># nitrogen --save tux.png</code>
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>OS: </strong> Arch Linux
- ● Kernel v6.2.10
-</p>
-    <p><strong>Shell: </strong> ZSH
-</p>
-    <p><strong>Uptime: </strong> up 1 week, 6 hours
-</p>
-    <p><strong>Used Mem: </strong> 6,6Gi
-</p>
-    <p><strong>Last commit: </strong> main 74 seconds ago
-</p>
+    <p><strong>OS: </strong>${props.osName} ● Kernel v${props.kernelVersion}</p>
+    <p><strong>Shell: </strong> ${props.shell.toUpperCase()}</p>
+    <p><strong>Uptime: </strong> ${props.uptime}</p>
+    <p><strong>Used Mem: </strong> ${props.usedMem}</p>
+    <p><strong>Last commit: </strong> ${props.lastCommit}</p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/waterspout_mole_960.jpg>A Waterspout in Florida</a></h4>
-    <img src="src/assets/astronomy_2680d072-87ea-4824-8299-ed7f4e7a9e4b.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=${props.hdurl}>${props.image_title}</a></h4>
+    <img src="${props.imageRelativePath}" width="100%" height="100%"/>
   </div>
   </details>
 
@@ -66,4 +61,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/rwietter)
 
   </div>
-  
+  `;
+}
+
+export { template };
