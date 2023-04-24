@@ -2,7 +2,7 @@
   <div align="center">
     <h2> Maurício Witter 🍀 </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
-    <p>🌔 Lua Crescente (0.123)
+    <p>🌔 Waxing Crescent (0.137)
 </p>
   </div>
       
@@ -41,17 +41,17 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 6 hours
+    <p><strong>Uptime: </strong> up 1 week, 15 hours, 54 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,6Gi
+    <p><strong>Used Mem: </strong> 6,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 74 seconds ago
+    <p><strong>Last commit: </strong> main 10 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/waterspout_mole_960.jpg>A Waterspout in Florida</a></h4>
-    <img src="src/assets/astronomy_2680d072-87ea-4824-8299-ed7f4e7a9e4b.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/CTB1_Sibbald_6209.jpg>The Medulla Nebula Supernova Remnant</a></h4>
+    <img src="src/assets/astronomy_ccf478a7-f771-44a2-8fd8-ef8ab5ce5d21.png" width="100%" height="100%"/>
   </div>
   </details>
 
