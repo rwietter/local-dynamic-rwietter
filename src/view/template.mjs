@@ -4,7 +4,10 @@ const template = (...properties) => {
   <div align="center">
     <h2> Maurício Witter 🍀 </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
-    <p>${props.moonphase}</p>
+  </div>
+
+  <div align="center">
+    
   </div>
       
   <div align="center">
@@ -34,9 +37,9 @@ const template = (...properties) => {
   <details closed>
     <summary align="center"> Anything else :electron: :computer: </summary>
     <div align="right">
-      <code># nitrogen --save tux.png</code>
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
+    <p><strong>${new Date().toLocaleDateString()}: </strong> ${props.moonphase}</p>
     <p><strong>OS: </strong>${props.osName} ● Kernel v${props.kernelVersion}</p>
     <p><strong>Shell: </strong> ${props.shell.toUpperCase()}</p>
     <p><strong>Uptime: </strong> ${props.uptime}</p>

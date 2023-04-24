@@ -2,8 +2,10 @@
   <div align="center">
     <h2> Maurício Witter 🍀 </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
-    <p>🌔 Waxing Crescent (0.137)
-</p>
+  </div>
+
+  <div align="center">
+    
   </div>
       
   <div align="center">
@@ -33,25 +35,26 @@
   <details closed>
     <summary align="center"> Anything else :electron: :computer: </summary>
     <div align="right">
-      <code># nitrogen --save tux.png</code>
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
+    <p><strong>24/04/2023: </strong> 🌔 Waxing Crescent (0.138)
+</p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 15 hours, 54 minutes
+    <p><strong>Uptime: </strong> up 1 week, 16 hours, 32 minutes
 </p>
     <p><strong>Used Mem: </strong> 6,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 10 hours ago
+    <p><strong>Last commit: </strong> main 38 minutes ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/CTB1_Sibbald_6209.jpg>The Medulla Nebula Supernova Remnant</a></h4>
-    <img src="src/assets/astronomy_ccf478a7-f771-44a2-8fd8-ef8ab5ce5d21.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_5210aa50-1932-4277-8156-4e7d287a88f6.png" width="100%" height="100%"/>
   </div>
   </details>
 
