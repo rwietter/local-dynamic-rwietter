@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>25/04/2023: </strong> 🌔 Waxing Crescent (0.156)
+    <p><strong>25/04/2023: </strong> 🌔 Waxing Crescent (0.172)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 1 day, 5 hours, 1 minute
+    <p><strong>Uptime: </strong> up 1 week, 1 day, 17 hours, 1 minute
 </p>
-    <p><strong>Used Mem: </strong> 6,0Gi
+    <p><strong>Used Mem: </strong> 4,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/CTB1_Sibbald_6209.jpg>The Medulla Nebula Supernova Remnant</a></h4>
-    <img src="src/assets/astronomy_58e930b4-5577-4210-aa7a-a117fa2feec9.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_5472.jpg>Northern Lights over Southern Europe</a></h4>
+    <img src="src/assets/astronomy_a4e2a3d4-2046-4a35-9314-09251b4a0851.png" width="100%" height="100%"/>
   </div>
   </details>
 
