@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>26/04/2023: </strong> 🌔 First Quarter (0.189)
+    <p><strong>26/04/2023: </strong> 🌔 First Quarter (0.206)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 2 days, 5 hours, 1 minute
+    <p><strong>Uptime: </strong> up 1 week, 2 days, 17 hours, 1 minute
 </p>
-    <p><strong>Used Mem: </strong> 5,4Gi
+    <p><strong>Used Mem: </strong> 6,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_5472.jpg>Northern Lights over Southern Europe</a></h4>
-    <img src="src/assets/astronomy_dac586d2-11cf-4706-87d8-8d9ee21a0061.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_1365.jpg>The Moon through the Arc de Triomphe</a></h4>
+    <img src="src/assets/astronomy_cfe1516a-835a-4f74-a0bd-18f7149731fa.png" width="100%" height="100%"/>
   </div>
   </details>
 
