@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>28/04/2023: </strong> 🌔 First Quarter (0.283)
+    <p><strong>29/04/2023: </strong> 🌔 First Quarter (0.291)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 4 days, 23 hours, 1 minute
+    <p><strong>Uptime: </strong> up 1 week, 5 days, 5 hours, 1 minute
 </p>
-    <p><strong>Used Mem: </strong> 7,7Gi
+    <p><strong>Used Mem: </strong> 6,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/AlphaCamelopardis_s3100.png>Runaway Star Alpha Camelopardalis</a></h4>
-    <img src="src/assets/astronomy_c3b7c6d9-92bf-41fb-a349-6515b54061af.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_9a42cd3a-d735-4ea0-b686-c51109cdf758.png" width="100%" height="100%"/>
   </div>
   </details>
 
