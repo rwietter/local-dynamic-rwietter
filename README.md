@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>30/04/2023: </strong> 🌒 Waxing Gibbous (0.325)
+    <p><strong>30/04/2023: </strong> 🌒 Waxing Gibbous (0.342)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 hour, 16 minutes
+    <p><strong>Uptime: </strong> up 13 hours, 16 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,5Gi
+    <p><strong>Used Mem: </strong> 6,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/TSE2023-Comp48-2a.jpg>Solar Eclipse from a Ship</a></h4>
-    <img src="src/assets/astronomy_3c6c1177-3e1e-4651-9f29-dc4f1e549463.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2304/helene2_cassini_1024.jpg>Saturn's Moon Helene in Color</a></h4>
+    <img src="src/assets/astronomy_e3e115a3-16ba-461d-acf8-5d4c3d42962b.png" width="100%" height="100%"/>
   </div>
   </details>
 
