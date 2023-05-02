@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>01/05/2023: </strong> 🌒 Waxing Gibbous (0.384)
+    <p><strong>02/05/2023: </strong> 🌒 Waxing Gibbous (0.393)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 hours, 43 minutes
+    <p><strong>Uptime: </strong> up 9 hours, 43 minutes
 </p>
-    <p><strong>Used Mem: </strong> 1,3Gi
+    <p><strong>Used Mem: </strong> 6,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/CarNorth_Taylor_6179.jpg>Carina Nebula North</a></h4>
-    <img src="src/assets/astronomy_9c00b9d7-565e-40b8-9c09-be6043cd8793.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_a1e0ad0e-c502-4b43-8b94-c1a12fe54057.png" width="100%" height="100%"/>
   </div>
   </details>
 
