@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>03/05/2023: </strong> 🌒 Waxing Gibbous (0.426)
+    <p><strong>03/05/2023: </strong> 🌑 Full Moon (0.443)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 9 hours, 43 minutes
+    <p><strong>Uptime: </strong> up 1 day, 21 hours, 43 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,5Gi
+    <p><strong>Used Mem: </strong> 6,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_2713.jpg>Flat Rock Hills on Mars</a></h4>
-    <img src="src/assets/astronomy_682ca161-0991-4697-aa50-26cecef824eb.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/NGC5128_Lorenzi_3000.jpg>Centaurus A: A Peculiar Island of Stars</a></h4>
+    <img src="src/assets/astronomy_6ff15608-5a60-4eeb-90c0-6ada934b8ec8.png" width="100%" height="100%"/>
   </div>
   </details>
 
