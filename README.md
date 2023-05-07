@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>07/05/2023: </strong> 🌑 Full Moon (0.562)
+    <p><strong>07/05/2023: </strong> 🌒 Waning Gibbous (0.579)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 10 hours, 47 minutes
+    <p><strong>Uptime: </strong> up 1 day, 22 hours, 47 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,1Gi
+    <p><strong>Used Mem: </strong> 3,5Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/TwilightFlower.jpg>Twilight in a Flower</a></h4>
-    <img src="src/assets/astronomy_0017f47a-ca87-4428-aae2-f02e01a8f2db.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_1917.jpg>The Helix Nebula from CFHT</a></h4>
+    <img src="src/assets/astronomy_5988c7b0-ecce-444a-a11e-9914ecd5c8a6.png" width="100%" height="100%"/>
   </div>
   </details>
 
