@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>07/05/2023: </strong> 🌒 Waning Gibbous (0.579)
+    <p><strong>08/05/2023: </strong> 🌒 Waning Gibbous (0.613)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 22 hours, 47 minutes
+    <p><strong>Uptime: </strong> up 17 hours, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 3,5Gi
+    <p><strong>Used Mem: </strong> 4,3Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_1917.jpg>The Helix Nebula from CFHT</a></h4>
-    <img src="src/assets/astronomy_5988c7b0-ecce-444a-a11e-9914ecd5c8a6.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/NGC1566_HubbleOdenthal_1280.jpg>The Spanish Dancer Spiral Galaxy</a></h4>
+    <img src="src/assets/astronomy_296872b6-bdf4-4b72-97f0-4c78f8828f59.png" width="100%" height="100%"/>
   </div>
   </details>
 
