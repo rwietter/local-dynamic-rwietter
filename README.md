@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>10/05/2023: </strong> 🌒 Waning Gibbous (0.68)
+    <p><strong>11/05/2023: </strong> 🌒 Last Quarter (0.714)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 12 hours, 13 minutes
+    <p><strong>Uptime: </strong> up 1 day, 12 hours, 13 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,4Gi
+    <p><strong>Used Mem: </strong> 6,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_2048.jpg>Milky Way over Egyptian Desert</a></h4>
-    <img src="src/assets/astronomy_ae4fb86f-c958-4653-80da-3d7738e79aac.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk.png>Fomalhaut's Dusty Debris Disk</a></h4>
+    <img src="src/assets/astronomy_ceeeccfb-be1f-4e25-bcb8-54e61ec21209.png" width="100%" height="100%"/>
   </div>
   </details>
 
