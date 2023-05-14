@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>14/05/2023: </strong> 🌒 Last Quarter (0.799)
+    <p><strong>14/05/2023: </strong> 🌔 Waning Crescent (0.816)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.2.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 4 days, 13 minutes
+    <p><strong>Uptime: </strong> up 4 days, 12 hours, 13 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 7,7Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/AS17-152-23420_Ord.jpg>Apollo 17: The Crescent Earth</a></h4>
-    <img src="src/assets/astronomy_078509f3-e500-4ee8-8157-ada3bf17e851.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/freeflyer_nasa_3000.jpg>To Fly Free in Space</a></h4>
+    <img src="src/assets/astronomy_9921368d-12a8-4cda-b8e5-b39d0b9e9550.png" width="100%" height="100%"/>
   </div>
   </details>
 
