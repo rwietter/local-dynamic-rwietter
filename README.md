@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>15/05/2023: </strong> 🌔 Waning Crescent (0.85)
+    <p><strong>16/05/2023: </strong> 🌔 Waning Crescent (0.867)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 hours, 36 minutes
+    <p><strong>Uptime: </strong> up 14 hours, 36 minutes
 </p>
-    <p><strong>Used Mem: </strong> 4,7Gi
+    <p><strong>Used Mem: </strong> 7,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 16 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/EagleDeep_Lacroce_2047.jpg>M16: Eagle Nebula Deep Field</a></h4>
-    <img src="src/assets/astronomy_0a061ae0-d460-48bb-90a6-1583a6ad7bab.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_d88d34c2-5adc-4e38-b4bc-da021232c087.png" width="100%" height="100%"/>
   </div>
   </details>
 
