@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>17/05/2023: </strong> 🌔 Waning Crescent (0.926)
+    <p><strong>18/05/2023: </strong> 🌔 Waning Crescent (0.934)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 8 hours, 36 minutes
+    <p><strong>Uptime: </strong> up 3 hours, 37 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,0Gi
+    <p><strong>Used Mem: </strong> 6,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/SunSpotBridge_Johnston_960.jpg>Sunspot with Light Bridge</a></h4>
-    <img src="src/assets/astronomy_cdf76b99-660a-4b13-b068-71b69acd25e8.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_8d8ac23b-b248-4009-b0f7-0a1d01b311b9.png" width="100%" height="100%"/>
   </div>
   </details>
 
