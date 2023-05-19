@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>18/05/2023: </strong> 🌕 New Moon (0.951)
+    <p><strong>19/05/2023: </strong> 🌕 New Moon (0.985)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 15 hours, 37 minutes
+    <p><strong>Uptime: </strong> up 1 day, 15 hours, 37 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,0Gi
+    <p><strong>Used Mem: </strong> 7,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/WR134SHO.jpg>WR 134 Ring Nebula</a></h4>
-    <img src="src/assets/astronomy_a375f420-8ec3-4990-bf33-ebb7b3a81ba1.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/m63.jpg>Curly Spiral Galaxy M63</a></h4>
+    <img src="src/assets/astronomy_72f5cdde-ad26-468b-a22f-41e14f5e9a2d.png" width="100%" height="100%"/>
   </div>
   </details>
 
