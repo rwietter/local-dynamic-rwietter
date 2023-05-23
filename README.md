@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>23/05/2023: </strong> 🌔 Waxing Crescent (0.104)
+    <p><strong>23/05/2023: </strong> 🌔 Waxing Crescent (0.121)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 5 days, 3 hours, 37 minutes
+    <p><strong>Uptime: </strong> up 1 hour, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 2,9Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_2560.jpg>Supernova Discovered in Nearby Spiral Galaxy M101</a></h4>
-    <img src="src/assets/astronomy_67107f9d-4f88-4827-9be9-7f9513fbad9f.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg>Jupiter's Swirls from Juno</a></h4>
+    <img src="src/assets/astronomy_9fdd2612-8ed0-48b8-acd3-ee9c86c87e21.png" width="100%" height="100%"/>
   </div>
   </details>
 
