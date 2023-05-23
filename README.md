@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>23/05/2023: </strong> 🌔 Waxing Crescent (0.121)
+    <p><strong>23/05/2023: </strong> 🌔 Waxing Crescent (0.129)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 hour, 23 minutes
+    <p><strong>Uptime: </strong> up 7 hours, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 2,9Gi
+    <p><strong>Used Mem: </strong> 5,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg>Jupiter's Swirls from Juno</a></h4>
-    <img src="src/assets/astronomy_9fdd2612-8ed0-48b8-acd3-ee9c86c87e21.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_5aec7f4a-7604-44cc-be3c-aaf0e2719fcd.png" width="100%" height="100%"/>
   </div>
   </details>
 
