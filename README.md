@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>24/05/2023: </strong> 🌔 Waxing Crescent (0.155)
+    <p><strong>25/05/2023: </strong> 🌔 First Quarter (0.188)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 1 hour, 23 minutes
+    <p><strong>Uptime: </strong> up 2 days, 1 hour, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,0Gi
+    <p><strong>Used Mem: </strong> 4,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/MoonJupiter_Whitacre_1920.jpg>Observatory Aligned with Moon Occulting Jupiter</a></h4>
-    <img src="src/assets/astronomy_ace89f2b-bd57-43f8-8146-00396255bab1.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/NGC6543_wide.jpg>Cat's Eye Wide and Deep</a></h4>
+    <img src="src/assets/astronomy_5f053824-28f9-42df-8559-34c69b34b395.png" width="100%" height="100%"/>
   </div>
   </details>
 
