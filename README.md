@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>26/05/2023: </strong> 🌔 First Quarter (0.222)
+    <p><strong>27/05/2023: </strong> 🌔 First Quarter (0.239)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 1 hour, 23 minutes
+    <p><strong>Uptime: </strong> up 3 days, 13 hours, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,2Gi
+    <p><strong>Used Mem: </strong> 7,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 24 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/virgoCL2048.jpg>Virgo Cluster Galaxies</a></h4>
-    <img src="src/assets/astronomy_a3dd992d-7556-45bd-ac31-476ba33e2a5c.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_4340109d-897b-4ae9-ac71-68abc5e1eb43.png" width="100%" height="100%"/>
   </div>
   </details>
 
