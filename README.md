@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>28/05/2023: </strong> 🌔 First Quarter (0.298)
+    <p><strong>29/05/2023: </strong> 🌔 First Quarter (0.307)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 8 hours, 11 minutes
+    <p><strong>Uptime: </strong> up 42 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 7,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg>Ida and Dactyl: Asteroid and Moon</a></h4>
-    <img src="src/assets/astronomy_89b9c1e4-a051-4ac0-8dcc-3570d5465b61.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_d6e7a5b6-765f-4c7a-85df-ff8c26e21a28.png" width="100%" height="100%"/>
   </div>
   </details>
 
