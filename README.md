@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>29/05/2023: </strong> 🌒 Waxing Gibbous (0.324)
+    <p><strong>29/05/2023: </strong> 🌒 Waxing Gibbous (0.332)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 12 hours, 42 minutes
+    <p><strong>Uptime: </strong> up 18 hours, 42 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,6Gi
+    <p><strong>Used Mem: </strong> 6,5Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg>Milky Way over a Turquoise Wonderland</a></h4>
-    <img src="src/assets/astronomy_db018d81-eeb7-49ce-8e55-71bacdafd3d9.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_21c8d2a6-ee8f-446f-810d-211fc3baaee8.png" width="100%" height="100%"/>
   </div>
   </details>
 
