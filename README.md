@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>31/05/2023: </strong> 🌒 Waxing Gibbous (0.375)
+    <p><strong>02/06/2023: </strong> 🌑 Full Moon (0.459)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 5 hours, 39 minutes
+    <p><strong>Uptime: </strong> up 2 days, 17 hours, 39 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,0Gi
+    <p><strong>Used Mem: </strong> 7,5Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 2 days ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_2717.jpg>M27: The Dumbbell Nebula</a></h4>
-    <img src="src/assets/astronomy_4539d5fe-6092-4e5b-ab29-ce6ff50457c9.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/M101_hst6000.jpg>Messier 101</a></h4>
+    <img src="src/assets/astronomy_5bd3757d-8e6b-4550-a434-1eb1be38a258.png" width="100%" height="100%"/>
   </div>
   </details>
 
