@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>03/06/2023: </strong> 🌑 Full Moon (0.476)
+    <p><strong>03/06/2023: </strong> 🌑 Full Moon (0.493)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 14 hours, 49 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,2Gi
+    <p><strong>Used Mem: </strong> 4,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/M101_hst6000.jpg>Messier 101</a></h4>
-    <img src="src/assets/astronomy_12aebeda-efaa-4f05-b029-2a4def8ec570.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/Charon-Neutral-Bright-Release.jpg>Charon: Moon of Pluto</a></h4>
+    <img src="src/assets/astronomy_86bbb176-7b23-4462-b3a3-a3bf0e85f93d.png" width="100%" height="100%"/>
   </div>
   </details>
 
