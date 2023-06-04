@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>03/06/2023: </strong> 🌑 Full Moon (0.502)
+    <p><strong>04/06/2023: </strong> 🌑 Full Moon (0.51)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 20 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 1 day, 2 hours, 48 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,8Gi
+    <p><strong>Used Mem: </strong> 7,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/Charon-Neutral-Bright-Release.jpg>Charon: Moon of Pluto</a></h4>
-    <img src="src/assets/astronomy_7c4b181c-9da5-4359-9a99-77b5e35fe334.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_0c59d190-1c02-4909-b4b7-726e3bc5eb99.png" width="100%" height="100%"/>
   </div>
   </details>
 
