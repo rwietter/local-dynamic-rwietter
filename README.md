@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>04/06/2023: </strong> 🌑 Full Moon (0.535)
+    <p><strong>08/06/2023: </strong> 🌒 Waning Gibbous (0.662)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 20 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 1 day, 13 hours, 49 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,6Gi
+    <p><strong>Used Mem: </strong> 8,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 days ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_3000.jpg>Color the Universe</a></h4>
-    <img src="src/assets/astronomy_b06804ef-130d-4265-89cb-2fe9418ec1da.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/ic1396ASI294large.jpg>Elephant's Trunk and Caravan</a></h4>
+    <img src="src/assets/astronomy_72e72b56-d2bf-4536-a524-99a28dca36de.png" width="100%" height="100%"/>
   </div>
   </details>
 
