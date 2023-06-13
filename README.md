@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>12/06/2023: </strong> 🌒 Last Quarter (0.806)
+    <p><strong>13/06/2023: </strong> 🌔 Waning Crescent (0.815)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 7 hours, 44 minutes
+    <p><strong>Uptime: </strong> up 13 hours, 44 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,0Gi
+    <p><strong>Used Mem: </strong> 7,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_2599.jpg>The Largest Satellites of Earth</a></h4>
-    <img src="src/assets/astronomy_0cb957c2-b530-4498-b22c-d2cb7728746e.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_88ad9443-c6b5-441a-b9c4-f07d0037cf3a.png" width="100%" height="100%"/>
   </div>
   </details>
 
