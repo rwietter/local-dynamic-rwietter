@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>16/06/2023: </strong> 🌔 Waning Crescent (0.933)
+    <p><strong>16/06/2023: </strong> 🌕 New Moon (0.942)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 20 hours, 43 minutes
+    <p><strong>Uptime: </strong> up 3 hours, 28 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,6Gi
+    <p><strong>Used Mem: </strong> 6,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 days ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image.jpg>Sunset to Sunrise over the Baltic Sea</a></h4>
-    <img src="src/assets/astronomy_274e45f0-2a05-4a4d-add0-c00b25e3e0ff.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_fb42d628-6034-4a19-b4ee-5f700f503ec8.png" width="100%" height="100%"/>
   </div>
   </details>
 
