@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>17/06/2023: </strong> 🌕 New Moon (0.95)
+    <p><strong>18/06/2023: </strong> 🌕 New Moon (0.001)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 9 hours, 28 minutes
+    <p><strong>Uptime: </strong> up 22 hours, 59 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,5Gi
+    <p><strong>Used Mem: </strong> 7,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image.jpg>Sunset to Sunrise over the Baltic Sea</a></h4>
-    <img src="src/assets/astronomy_1ac9a153-aa0a-45b1-b823-59d3046dae53.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg>Saturn's Northern Hexagon</a></h4>
+    <img src="src/assets/astronomy_5cf76562-4911-4edd-8931-29d1f2026678.png" width="100%" height="100%"/>
   </div>
   </details>
 
