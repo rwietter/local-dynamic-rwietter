@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>19/06/2023: </strong> 🌕 New Moon (0.018)
+    <p><strong>19/06/2023: </strong> 🌕 New Moon (0.035)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 10 hours, 59 minutes
+    <p><strong>Uptime: </strong> up 1 day, 22 hours, 59 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,2Gi
+    <p><strong>Used Mem: </strong> 6,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg>Saturn's Northern Hexagon</a></h4>
-    <img src="src/assets/astronomy_b8882bf4-9e24-4f5d-8c8c-89a291841789.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_3979.jpg>The Busy Center of the Lagoon Nebula</a></h4>
+    <img src="src/assets/astronomy_c385df58-3257-406a-80e0-cc54fa9837e1.png" width="100%" height="100%"/>
   </div>
   </details>
 
