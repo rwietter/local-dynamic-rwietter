@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>20/06/2023: </strong> 🌕 New Moon (0.052)
+    <p><strong>20/06/2023: </strong> 🌔 Waxing Crescent (0.069)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 10 hours, 59 minutes
+    <p><strong>Uptime: </strong> up 2 days, 22 hours, 59 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,8Gi
+    <p><strong>Used Mem: </strong> 5,6Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_3979.jpg>The Busy Center of the Lagoon Nebula</a></h4>
-    <img src="src/assets/astronomy_d0ca281f-b959-48a9-a618-b3d1aeb0aae9.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_2048.jpg>The Ñandú in the Milky Way</a></h4>
+    <img src="src/assets/astronomy_252f0c30-6287-4a3c-9ed6-cbcb0f0ccdd6.png" width="100%" height="100%"/>
   </div>
   </details>
 
