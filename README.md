@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>21/06/2023: </strong> 🌔 Waxing Crescent (0.086)
+    <p><strong>21/06/2023: </strong> 🌔 Waxing Crescent (0.103)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 10 hours, 59 minutes
+    <p><strong>Uptime: </strong> up 3 days, 22 hours, 59 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,5Gi
+    <p><strong>Used Mem: </strong> 7,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_2048.jpg>The Ñandú in the Milky Way</a></h4>
-    <img src="src/assets/astronomy_ebe4e965-f71d-4180-84d5-eef42f93b59c.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg>Three Sun Paths</a></h4>
+    <img src="src/assets/astronomy_2a97e51c-10c9-4b5a-a73a-ae539e0cd04b.png" width="100%" height="100%"/>
   </div>
   </details>
 
