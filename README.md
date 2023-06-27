@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>26/06/2023: </strong> 🌔 First Quarter (0.28)
+    <p><strong>27/06/2023: </strong> 🌔 First Quarter (0.289)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 7 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 1 day, 13 hours, 48 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,3Gi
+    <p><strong>Used Mem: </strong> 6,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_4000_annotated.jpg>The Belt of Venus over Mount Everest</a></h4>
-    <img src="src/assets/astronomy_7aba687e-2c71-40a5-8e20-4ce4018c9e4a.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_d5d08cb6-ba5a-45f7-8971-10297800699d.png" width="100%" height="100%"/>
   </div>
   </details>
 
