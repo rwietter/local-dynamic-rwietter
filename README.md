@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>27/06/2023: </strong> 🌒 Waxing Gibbous (0.314)
+    <p><strong>29/06/2023: </strong> 🌒 Waxing Gibbous (0.382)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 7 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 4 days, 7 hours, 48 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,1Gi
+    <p><strong>Used Mem: </strong> 8,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 2 days ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png>MAVEN's Ultraviolet Mars</a></h4>
-    <img src="src/assets/astronomy_9a4b6502-87a6-4b5e-8cfb-a0b5d8b3c48f.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_3000_annotated.jpg>A Message from the Gravitational Universe</a></h4>
+    <img src="src/assets/astronomy_f729295b-0ffb-4621-a638-2e9a4e04fa27.png" width="100%" height="100%"/>
   </div>
   </details>
 
