@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>29/06/2023: </strong> 🌒 Waxing Gibbous (0.382)
+    <p><strong>30/06/2023: </strong> 🌒 Waxing Gibbous (0.391)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 4 days, 7 hours, 48 minutes
+    <p><strong>Uptime: </strong> up 4 days, 13 hours, 48 minutes
 </p>
     <p><strong>Used Mem: </strong> 8,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 days ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_3000_annotated.jpg>A Message from the Gravitational Universe</a></h4>
-    <img src="src/assets/astronomy_f729295b-0ffb-4621-a638-2e9a4e04fa27.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_3d2e5d25-9dd2-4435-a0ba-fc856d50c2cb.png" width="100%" height="100%"/>
   </div>
   </details>
 
