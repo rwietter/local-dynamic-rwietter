@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>30/06/2023: </strong> 🌒 Waxing Gibbous (0.416)
+    <p><strong>01/07/2023: </strong> 🌒 Waxing Gibbous (0.424)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 hours, 50 minutes
+    <p><strong>Uptime: </strong> up 9 hours, 50 minutes
 </p>
-    <p><strong>Used Mem: </strong> 3,2Gi
+    <p><strong>Used Mem: </strong> 7,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2306/phas_jpl_3254.jpg>Orbits of Potentially Hazardous Asteroids</a></h4>
-    <img src="src/assets/astronomy_2445515d-e4d7-4820-8592-7eed161dfb4d.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_f688de0b-607a-4c91-840b-345e64385bc3.png" width="100%" height="100%"/>
   </div>
   </details>
 
