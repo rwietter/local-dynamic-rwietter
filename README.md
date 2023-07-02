@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>02/07/2023: </strong> 🌑 Full Moon (0.458)
+    <p><strong>02/07/2023: </strong> 🌑 Full Moon (0.475)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 9 hours, 50 minutes
+    <p><strong>Uptime: </strong> up 1 day, 21 hours, 50 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,0Gi
+    <p><strong>Used Mem: </strong> 7,9Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/DracoTrio_TeamOmicron.jpg>Three Galaxies in Draco</a></h4>
-    <img src="src/assets/astronomy_ff37a01d-2ec4-4672-bbc5-5a396bc1f250.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/MWAurora_hang_4906.jpg>Milky Way and Aurora over Antarctica</a></h4>
+    <img src="src/assets/astronomy_1e92ff24-087d-4b70-961f-bd8a05f1371e.png" width="100%" height="100%"/>
   </div>
   </details>
 
