@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>02/07/2023: </strong> 🌑 Full Moon (0.484)
+    <p><strong>03/07/2023: </strong> 🌑 Full Moon (0.509)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 3 hours, 50 minutes
+    <p><strong>Uptime: </strong> up 2 days, 21 hours, 50 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,1Gi
+    <p><strong>Used Mem: </strong> 6,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/MWAurora_hang_4906.jpg>Milky Way and Aurora over Antarctica</a></h4>
-    <img src="src/assets/astronomy_b0713ddb-70d1-431c-86c9-f410767f2498.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg>Venus in Ultraviolet from Akatsuki</a></h4>
+    <img src="src/assets/astronomy_9e5f49cd-0ed9-4a91-a8b2-c629dcbd0a0d.png" width="100%" height="100%"/>
   </div>
   </details>
 
