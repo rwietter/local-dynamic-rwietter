@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>07/07/2023: </strong> 🌒 Waning Gibbous (0.644)
+    <p><strong>07/07/2023: </strong> 🌒 Waning Gibbous (0.653)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 2 hours, 58 minutes
+    <p><strong>Uptime: </strong> up 4 hours, 55 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,1Gi
+    <p><strong>Used Mem: </strong> 3,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 24 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/Caldwell_14_2023_HaLRGB_LRGB_stars_wm.jpg>The Double Cluster in Perseus</a></h4>
-    <img src="src/assets/astronomy_ba215d45-18d0-492a-8cb2-13095e1512ed.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_2b6b0003-82ee-470d-9648-297dfc34e3cb.png" width="100%" height="100%"/>
   </div>
   </details>
 
