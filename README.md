@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>08/07/2023: </strong> 🌒 Waning Gibbous (0.661)
+    <p><strong>08/07/2023: </strong> 🌒 Waning Gibbous (0.687)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 10 hours, 55 minutes
+    <p><strong>Uptime: </strong> up 1 day, 4 hours, 55 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,6Gi
+    <p><strong>Used Mem: </strong> 6,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/Caldwell_14_2023_HaLRGB_LRGB_stars_wm.jpg>The Double Cluster in Perseus</a></h4>
-    <img src="src/assets/astronomy_0aa6b9f6-8631-4588-8fac-ed97fcb3f9eb.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/PSP_007769_9010_IRB_Stickney.jpg>Stickney Crater</a></h4>
+    <img src="src/assets/astronomy_77d35f02-b0a1-48cb-9dab-4c508a061fb9.png" width="100%" height="100%"/>
   </div>
   </details>
 
