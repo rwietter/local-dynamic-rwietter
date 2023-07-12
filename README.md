@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>12/07/2023: </strong> 🌒 Last Quarter (0.797)
+    <p><strong>12/07/2023: </strong> 🌔 Waning Crescent (0.814)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 4 days, 10 hours, 55 minutes
+    <p><strong>Uptime: </strong> up 13 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,8Gi
+    <p><strong>Used Mem: </strong> 3,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg>Sunspots on an Active Sun</a></h4>
-    <img src="src/assets/astronomy_98dbb985-cc89-4783-a5d1-1d07a5b6c53c.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/Ngc1398_Hanson_2752.jpg>Rings and Bar of Spiral Galaxy NGC 1398</a></h4>
+    <img src="src/assets/astronomy_15546dbb-521e-4fe3-bac6-4a44ca06d575.png" width="100%" height="100%"/>
   </div>
   </details>
 
