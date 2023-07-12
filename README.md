@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>11/07/2023: </strong> 🌒 Last Quarter (0.788)
+    <p><strong>12/07/2023: </strong> 🌒 Last Quarter (0.797)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 4 days, 4 hours, 55 minutes
+    <p><strong>Uptime: </strong> up 4 days, 10 hours, 55 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,2Gi
+    <p><strong>Used Mem: </strong> 6,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg>Sunspots on an Active Sun</a></h4>
-    <img src="src/assets/astronomy_9cc351cc-f94c-47e0-a965-5863b3408acf.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_98dbb985-cc89-4783-a5d1-1d07a5b6c53c.png" width="100%" height="100%"/>
   </div>
   </details>
 
