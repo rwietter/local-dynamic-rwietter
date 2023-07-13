@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>13/07/2023: </strong> 🌔 Waning Crescent (0.848)
+    <p><strong>13/07/2023: </strong> 🌔 Waning Crescent (0.856)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.3.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 hour, 17 minutes
+    <p><strong>Uptime: </strong> up 7 hours, 17 minutes
 </p>
-    <p><strong>Used Mem: </strong> 3,4Gi
+    <p><strong>Used Mem: </strong> 6,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 24 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/STScI-01_RhoOph.png>Webb's Rho Ophiuchi</a></h4>
-    <img src="src/assets/astronomy_437f7573-ad33-4879-a52b-80bd6b304ec3.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_d32bb6d1-fe96-4788-848b-ebdc3abde625.png" width="100%" height="100%"/>
   </div>
   </details>
 
