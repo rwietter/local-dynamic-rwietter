@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>14/07/2023: </strong> 🌔 Waning Crescent (0.882)
+    <p><strong>15/07/2023: </strong> 🌔 Waning Crescent (0.924)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 46 minutes
+    <p><strong>Uptime: </strong> up 1 day, 6 hours, 46 minutes
 </p>
-    <p><strong>Used Mem: </strong> 3,3Gi
+    <p><strong>Used Mem: </strong> 7,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 30 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/C_2023_E1_ATLAS_C14F2_DEBartlett.jpg>Comet C/2023 E1 ATLAS near Perihelion</a></h4>
-    <img src="src/assets/astronomy_58d4a03d-32fb-455e-8b9f-0f22f1d6fb76.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.png>Webb's First Deep Field</a></h4>
+    <img src="src/assets/astronomy_e57d099c-e04c-48c8-b18d-b10e3243d5a6.png" width="100%" height="100%"/>
   </div>
   </details>
 
