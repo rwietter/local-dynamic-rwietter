@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>15/07/2023: </strong> 🌔 Waning Crescent (0.924)
+    <p><strong>17/07/2023: </strong> 🌕 New Moon (0.983)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 6 hours, 46 minutes
+    <p><strong>Uptime: </strong> up 17 hours, 6 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 8,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 30 hours ago
+    <p><strong>Last commit: </strong> main 2 days ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/STScI-SMACS0723_webb.png>Webb's First Deep Field</a></h4>
-    <img src="src/assets/astronomy_e57d099c-e04c-48c8-b18d-b10e3243d5a6.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg>Shells and Arcs around Star CW Leonis</a></h4>
+    <img src="src/assets/astronomy_0cfe37c7-a978-4de9-8e52-3325eb52a50d.png" width="100%" height="100%"/>
   </div>
   </details>
 
