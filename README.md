@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>18/07/2023: </strong> 🌕 New Moon (0.017)
+    <p><strong>18/07/2023: </strong> 🌕 New Moon (0.025)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 17 hours, 6 minutes
+    <p><strong>Uptime: </strong> up 1 day, 23 hours, 6 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,4Gi
+    <p><strong>Used Mem: </strong> 9,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_2000.jpg>Milky Way above La Palma Observatory</a></h4>
-    <img src="src/assets/astronomy_aed39dd8-b930-414a-aff6-78a3f8e678f2.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_159afa79-ff88-48d9-917d-84e7161df82e.png" width="100%" height="100%"/>
   </div>
   </details>
 
