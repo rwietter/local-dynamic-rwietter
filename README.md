@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>20/07/2023: </strong> 🌔 Waxing Crescent (0.085)
+    <p><strong>20/07/2023: </strong> 🌔 Waxing Crescent (0.093)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 17 hours, 6 minutes
+    <p><strong>Uptime: </strong> up 3 days, 23 hours, 6 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,4Gi
+    <p><strong>Used Mem: </strong> 8,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/M64Hubble.jpg>M64: The Black Eye Galaxy Close Up</a></h4>
-    <img src="src/assets/astronomy_ccef5260-0876-419a-b78e-b13a136d33dd.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_b3d58640-d216-4c92-88e4-fdac466b8409.png" width="100%" height="100%"/>
   </div>
   </details>
 
