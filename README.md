@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>19/07/2023: </strong> 🌕 New Moon (0.059)
+    <p><strong>20/07/2023: </strong> 🌔 Waxing Crescent (0.068)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 23 hours, 6 minutes
+    <p><strong>Uptime: </strong> up 3 days, 5 hours, 6 minutes
 </p>
-    <p><strong>Used Mem: </strong> 9,3Gi
+    <p><strong>Used Mem: </strong> 8,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 22 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/Chandrayaan3_Suresh_1485.jpg>Chandrayaan-3 Launches to the Moon</a></h4>
-    <img src="src/assets/astronomy_8a4b4b9d-4663-40b9-908a-e3f54f7504cd.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_14e19ad3-45b2-49c2-b5fa-4afcc8bd3946.png" width="100%" height="100%"/>
   </div>
   </details>
 
