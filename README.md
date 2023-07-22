@@ -37,24 +37,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>22/07/2023: </strong> 🌔 Waxing Crescent (0.136)
+    <p><strong>22/07/2023: </strong> 🌔 Waxing Crescent (0.152)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 11 hours, 41 minutes
+    <p><strong>Uptime: </strong> up 51 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,1Gi
+    <p><strong>Used Mem: </strong> 2,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/MandelWilson9_GabrielRodriguesSantos_APOD.jpg>Galactic Cirrus: Mandel Wilson 9</a></h4>
-    <img src="src/assets/astronomy_40a82eaa-1c40-42ce-a15f-9a2ea16441e3.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/AldrinVisor_Apollo11_4096.jpg>Apollo 11: Armstrong's Lunar Selfie</a></h4>
+    <img src="src/assets/astronomy_b378e9a6-13ae-4861-b5cb-18cd83b75ce4.png" width="100%" height="100%"/>
   </div>
   </details>
 
