@@ -39,10 +39,10 @@ const fetchNasaPicture = async () => {
     .png({ quality: 100 })
     .toFile(pathSrc)
     .then(function (newFileInfo) {
-      console.log("Success", newFileInfo);
+      console.log("Success");
     })
     .catch(function (err) {
-      console.log("Error occured", err);
+      console.error("Error in resizing", { err });
     });
 
   let pathImage = "";

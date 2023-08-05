@@ -23,39 +23,52 @@
 
   Hey there!! I am Maurício, aka [**@rwietter**](https://rwietterc.xyz/) :wave:
 
-  I adopt the philosophy "**Learn in Public**" and with that, everything I learn, I tend to translate in a simple way to the public. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/)
+  I adopt the "**Learn in Public**" philosophy and with that, everything I learn, I share with the community. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/) 
 
-  I have experience with Dev-Ops, Distributed Systems Development, and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Rust**, and **Java**.
+  I have experience with DevOps, Distributed Systems Development, and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, and **Java**.
 
-  My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions.
+  My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.
 
       
   </details>
 
   <details closed>
     <summary align="center"> Anything else :electron: :computer: </summary>
+    <hr />
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>30/07/2023: </strong> 🌒 Waxing Gibbous (0.434)
+    <p><strong>05/08/2023: </strong> 🌒 Waning Gibbous (0.625)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 8 hours, 2 minutes
+    <p><strong>Uptime: </strong> up 2 days, 20 hours, 56 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,4Gi
+    <p><strong>Used Mem: </strong> 8,3Gi
 </p>
-    <p><strong>Last commit: </strong> main 8 days ago
+    <p><strong>Last commit: </strong> main 6 days ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2307/AuroraPingvllir_Casado_1336.jpg>Spiral Aurora over Icelandic Divide</a></h4>
-    <img src="src/assets/astronomy_a387cf66-2a8a-45fd-80a8-75e6b5c09440.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/ngc1360_v2.jpg>NGC 1360: The Robin's Egg Nebula</a></h4>
+    <img src="src/assets/astronomy_f7d006dd-a7ab-4bed-a4f4-68a996706ac7.png" width="100%" height="100%"/>
   </div>
+  </details>
+
+
+  <details closed>
+    <summary align="center"> Programming Stats </summary>
+    <hr />
+    <div align="center">
+      <img width="30%" height="30%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=awesomewm-dotfiles,blog-posts,dotfiles-bspwm,css-drawing-starship"/>
+      <img width="56%" height="56%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
+      <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
+    </div>
+
   </details>
 
   <hr />

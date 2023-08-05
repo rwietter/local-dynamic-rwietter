@@ -10,7 +10,7 @@ async function saveSongsToReadme(data) {
       encoding: "utf-8",
     });
   } catch (error) {
-    console.log(error);
+    console.error('Error while saving songs to README.md', { error });
     exit(1);
   }
 }
