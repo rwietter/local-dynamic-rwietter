@@ -45,17 +45,17 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 20 hours, 56 minutes
+    <p><strong>Uptime: </strong> up 2 days, 21 hours, 1 minute
 </p>
     <p><strong>Used Mem: </strong> 8,3Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 days ago
+    <p><strong>Last commit: </strong> main 63 seconds ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/ngc1360_v2.jpg>NGC 1360: The Robin's Egg Nebula</a></h4>
-    <img src="src/assets/astronomy_f7d006dd-a7ab-4bed-a4f4-68a996706ac7.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_1bb32638-fbd4-491d-9bd7-a567b2ce6987.png" width="100%" height="100%"/>
   </div>
   </details>
 
