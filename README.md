@@ -64,8 +64,8 @@
     <summary align="center"> Programming Stats </summary>
     <hr />
     <div align="center">
-      <img width="30%" height="30%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=awesomewm-dotfiles,blog-posts,dotfiles-bspwm,css-drawing-starship"/>
-      <img width="56%" height="56%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
+      <img width="34.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=awesomewm-dotfiles,blog-posts,dotfiles-bspwm,css-drawing-starship"/>
+      <img width="64.5%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
     </div>
 
