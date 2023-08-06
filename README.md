@@ -25,7 +25,7 @@
 
   I adopt the "**Learn in Public**" philosophy and with that, everything I learn, I share with the community. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/) 
 
-  I have experience with DevOps, Distributed Systems Development, and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, and **Java**.
+  I have experience with DevOps, Web Apps and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, and **Java**.
 
   My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.
 
@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>05/08/2023: </strong> 🌒 Waning Gibbous (0.625)
+    <p><strong>06/08/2023: </strong> 🌒 Waning Gibbous (0.657)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 21 hours, 1 minute
+    <p><strong>Uptime: </strong> up 3 days, 19 hours, 54 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,3Gi
+    <p><strong>Used Mem: </strong> 8,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 63 seconds ago
+    <p><strong>Last commit: </strong> main 23 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/ngc1360_v2.jpg>NGC 1360: The Robin's Egg Nebula</a></h4>
-    <img src="src/assets/astronomy_1bb32638-fbd4-491d-9bd7-a567b2ce6987.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_4940.jpg>SN 1006: A Supernova Ribbon from Hubble</a></h4>
+    <img src="src/assets/astronomy_901ca036-cbd1-41e7-9be1-16dac0b09276.png" width="100%" height="100%"/>
   </div>
   </details>
 
