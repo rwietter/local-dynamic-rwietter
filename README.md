@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>11/08/2023: </strong> 🌔 Waning Crescent (0.83)
+    <p><strong>11/08/2023: </strong> 🌔 Waning Crescent (0.838)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 44 minutes
+    <p><strong>Uptime: </strong> up 6 hours, 44 minutes
 </p>
-    <p><strong>Used Mem: </strong> 2,1Gi
+    <p><strong>Used Mem: </strong> 5,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/M51_255hours.jpg>Messier 51 in 255 Hours</a></h4>
-    <img src="src/assets/astronomy_40d929c6-62f8-456c-8814-3ac10e548b47.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_503c970d-6712-426a-8f12-191c0bff6d04.png" width="100%" height="100%"/>
   </div>
   </details>
 
