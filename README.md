@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>10/08/2023: </strong> 🌒 Last Quarter (0.804)
+    <p><strong>11/08/2023: </strong> 🌔 Waning Crescent (0.813)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 7 hours, 55 minutes
+    <p><strong>Uptime: </strong> up 3 hours, 0 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,5Gi
+    <p><strong>Used Mem: </strong> 3,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity.jpg>Five Meters over Mars</a></h4>
-    <img src="src/assets/astronomy_b04b33a1-0a1c-47fd-bb7a-410fcbdbf06f.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_bd6c46bc-a660-44b3-a49a-8cea7695f309.png" width="100%" height="100%"/>
   </div>
   </details>
 
