@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>14/08/2023: </strong> 🌔 Waning Crescent (0.931)
+    <p><strong>14/08/2023: </strong> 🌕 New Moon (0.94)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 14 hours, 27 minutes
+    <p><strong>Uptime: </strong> up 20 hours, 27 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,2Gi
+    <p><strong>Used Mem: </strong> 6,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 16 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/M57_JwstKong_4532.jpg>The Ring Nebula from Webb</a></h4>
-    <img src="src/assets/astronomy_dcb05e7d-7a45-4d82-b2ff-41f47a1cde36.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_008fb366-175d-46a6-bb8c-cf019559d0eb.png" width="100%" height="100%"/>
   </div>
   </details>
 
