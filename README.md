@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>16/08/2023: </strong> 🌕 New Moon (0.982)
+    <p><strong>16/08/2023: </strong> 🌕 New Moon (0.999)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 2 hours, 27 minutes
+    <p><strong>Uptime: </strong> up 2 days, 14 hours, 27 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,4Gi
+    <p><strong>Used Mem: </strong> 6,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_6501.jpg>A Triply Glowing Night Sky over Iceland</a></h4>
-    <img src="src/assets/astronomy_95bcbc34-0ee1-4140-9e5e-8265c74bf67a.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/NGC-7284-7285-LRGB-crop-CDK-1000-7-August-2023.jpg>Arp 93: A Cosmic Embrace</a></h4>
+    <img src="src/assets/astronomy_7295400d-62a0-44ce-8b07-aaa1db3f61b7.png" width="100%" height="100%"/>
   </div>
   </details>
 
