@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>16/08/2023: </strong> 🌕 New Moon (0.999)
+    <p><strong>17/08/2023: </strong> 🌕 New Moon (0.033)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 14 hours, 27 minutes
+    <p><strong>Uptime: </strong> up 3 days, 14 hours, 27 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,6Gi
+    <p><strong>Used Mem: </strong> 8,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/NGC-7284-7285-LRGB-crop-CDK-1000-7-August-2023.jpg>Arp 93: A Cosmic Embrace</a></h4>
-    <img src="src/assets/astronomy_7295400d-62a0-44ce-8b07-aaa1db3f61b7.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse.jpg>A Cosmic Zoo in Cepheus</a></h4>
+    <img src="src/assets/astronomy_c0f5b157-e556-4fd8-bb39-008aa1e6a900.png" width="100%" height="100%"/>
   </div>
   </details>
 
