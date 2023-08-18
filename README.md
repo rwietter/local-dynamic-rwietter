@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>18/08/2023: </strong> 🌕 New Moon (0.05)
+    <p><strong>18/08/2023: </strong> 🌔 Waxing Crescent (0.067)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 5 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 17 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 4,1Gi
+    <p><strong>Used Mem: </strong> 5,1Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse.jpg>A Cosmic Zoo in Cepheus</a></h4>
-    <img src="src/assets/astronomy_08f862d6-7048-4482-baf7-fc031fbb369a.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/nh-northpolerotatedcontrast.jpg>Northern Pluto</a></h4>
+    <img src="src/assets/astronomy_d1eb2d5e-bf66-4b7d-9b06-01e18176349e.png" width="100%" height="100%"/>
   </div>
   </details>
 
