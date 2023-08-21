@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>21/08/2023: </strong> 🌔 Waxing Crescent (0.151)
+    <p><strong>21/08/2023: </strong> 🌔 Waxing Crescent (0.168)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 5 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 3 days, 17 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,0Gi
+    <p><strong>Used Mem: </strong> 9,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/rollcloud_hanrahan_3072.jpg>A Roll Cloud Over Wisconsin</a></h4>
-    <img src="src/assets/astronomy_2ed8b7bb-1ad0-40e7-8cdb-535f97f47a43.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/CometNishimura_Bartlett_2062.jpg>Introducing Comet Nishimura</a></h4>
+    <img src="src/assets/astronomy_7748cc30-dddb-4541-9f63-d447c75a9cb7.png" width="100%" height="100%"/>
   </div>
   </details>
 
