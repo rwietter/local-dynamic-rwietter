@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>23/08/2023: </strong> 🌔 First Quarter (0.236)
+    <p><strong>24/08/2023: </strong> 🌔 First Quarter (0.27)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 5 days, 17 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 6 days, 17 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,3Gi
+    <p><strong>Used Mem: </strong> 8,5Gi
 </p>
     <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/M31Perseid_Pedrero_3232.jpg>The Meteor and the Galaxy</a></h4>
-    <img src="src/assets/astronomy_db3477a0-3330-4124-b321-27aa985e277b.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/MSH21080.jpg>Meteors along the Milky Way</a></h4>
+    <img src="src/assets/astronomy_2cad6443-362e-4382-9be4-3e38400b163f.png" width="100%" height="100%"/>
   </div>
   </details>
 
