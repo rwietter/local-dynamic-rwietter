@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>25/08/2023: </strong> 🌔 First Quarter (0.312)
+    <p><strong>26/08/2023: </strong> 🌒 Waxing Gibbous (0.321)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 23 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 1 week, 1 day, 5 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,7Gi
+    <p><strong>Used Mem: </strong> 9,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely.jpg>A Season of Saturn</a></h4>
-    <img src="src/assets/astronomy_ae823b93-0a92-43d1-8ffb-0ac07f6909c5.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_e08dbd3d-a56d-45bf-bf0c-b912a58d57cf.png" width="100%" height="100%"/>
   </div>
   </details>
 
