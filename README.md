@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>27/08/2023: </strong> 🌒 Waxing Gibbous (0.38)
+    <p><strong>28/08/2023: </strong> 🌒 Waxing Gibbous (0.388)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 2 days, 23 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 1 week, 3 days, 5 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 4,9Gi
+    <p><strong>Used Mem: </strong> 5,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 30 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_1084.jpg>Three Galaxies and a Comet</a></h4>
-    <img src="src/assets/astronomy_41e4f3ca-1e4c-4650-ace9-9b3d82b710c2.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_61641367-d08e-4cbb-b784-3c95ff44e582.png" width="100%" height="100%"/>
   </div>
   </details>
 
