@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>28/08/2023: </strong> 🌒 Waxing Gibbous (0.414)
+    <p><strong>29/08/2023: </strong> 🌑 Full Moon (0.439)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 3 days, 23 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 1 week, 4 days, 17 hours, 22 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 8,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/Pacman_Stocks_2560.jpg>Star Formation in the Pacman Nebula</a></h4>
-    <img src="src/assets/astronomy_7f64af26-9e00-4047-8d88-30d38a3e80c4.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/M66_JwstTomlinson_3521.jpg>Unusual Spiral Galaxy M66 from Webb</a></h4>
+    <img src="src/assets/astronomy_63e15c16-819b-4fb2-8cab-bcb2024c64c7.png" width="100%" height="100%"/>
   </div>
   </details>
 
