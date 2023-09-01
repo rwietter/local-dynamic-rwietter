@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>01/09/2023: </strong> 🌑 Full Moon (0.541)
+    <p><strong>01/09/2023: </strong> 🌑 Full Moon (0.549)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 16 hours, 32 minutes
+    <p><strong>Uptime: </strong> up 22 hours, 32 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,8Gi
+    <p><strong>Used Mem: </strong> 5,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8.jpg>The Great Globular Cluster in Hercules</a></h4>
-    <img src="src/assets/astronomy_cb100158-01d0-48f8-81c3-a7dd89c8b3d3.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_7481ce83-9fc0-4f88-9c0e-8f87a5a2a682.png" width="100%" height="100%"/>
   </div>
   </details>
 
