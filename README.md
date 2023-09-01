@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>31/08/2023: </strong> 🌑 Full Moon (0.515)
+    <p><strong>01/09/2023: </strong> 🌑 Full Moon (0.524)
 </p>
     <p><strong>OS: </strong> Arch Linux
- ● Kernel v6.4.3
+ ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 6 days, 23 hours, 22 minutes
+    <p><strong>Uptime: </strong> up 4 hours, 32 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,5Gi
+    <p><strong>Used Mem: </strong> 5,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2308/Crew_7_Nebula_Seeley-1.jpg>The Crew-7 Nebula</a></h4>
-    <img src="src/assets/astronomy_a538c838-f8ff-4950-9a8e-0d4820d85794.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_95eceacd-2908-47c8-a813-39ad4bc76534.png" width="100%" height="100%"/>
   </div>
   </details>
 
