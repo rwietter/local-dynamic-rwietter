@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>02/09/2023: </strong> 🌑 Full Moon (0.558)
+    <p><strong>02/09/2023: </strong> 🌒 Waning Gibbous (0.575)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 8 minutes
+    <p><strong>Uptime: </strong> up 2 hours, 0 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,6Gi
+    <p><strong>Used Mem: </strong> 3,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8.jpg>The Great Globular Cluster in Hercules</a></h4>
-    <img src="src/assets/astronomy_db37ec1c-4972-4b65-8fd0-c46b7c7ec0a3.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/268_lorand_fenyes_iris_ngc7023.jpg>NGC 7023: The Iris Nebula</a></h4>
+    <img src="src/assets/astronomy_4ded9d6b-b738-42fd-9647-4228640cdf4e.png" width="100%" height="100%"/>
   </div>
   </details>
 
