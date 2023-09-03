@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>03/09/2023: </strong> 🌒 Waning Gibbous (0.592)
+    <p><strong>03/09/2023: </strong> 🌒 Waning Gibbous (0.609)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 14 hours, 0 minutes
+    <p><strong>Uptime: </strong> up 1 day, 2 hours, 0 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 5,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/268_lorand_fenyes_iris_ngc7023.jpg>NGC 7023: The Iris Nebula</a></h4>
-    <img src="src/assets/astronomy_d74ec7a0-9536-46e8-a33d-469583ea2023.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg>Comet Schwassmann-Wachmann 3 Fragments</a></h4>
+    <img src="src/assets/astronomy_62a5a6c1-4486-433c-9c1a-ed71466d7c70.png" width="100%" height="100%"/>
   </div>
   </details>
 
