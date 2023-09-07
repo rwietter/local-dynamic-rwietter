@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>05/09/2023: </strong> 🌒 Waning Gibbous (0.685)
+    <p><strong>07/09/2023: </strong> 🌒 Last Quarter (0.744)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 8 hours, 32 minutes
+    <p><strong>Uptime: </strong> up 3 days, 2 hours, 32 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,3Gi
+    <p><strong>Used Mem: </strong> 6,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_2000.jpg>Blue Supermoon Beyond Syracuse</a></h4>
-    <img src="src/assets/astronomy_6fe4f16b-637a-4711-8c9e-8cfa4118bc97.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud.jpg>The Large Cloud of Magellan</a></h4>
+    <img src="src/assets/astronomy_804c2734-41d5-4003-b375-4fbc3893f3b7.png" width="100%" height="100%"/>
   </div>
   </details>
 
