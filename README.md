@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>07/09/2023: </strong> 🌒 Last Quarter (0.752)
+    <p><strong>08/09/2023: </strong> 🌒 Last Quarter (0.778)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 8 hours, 32 minutes
+    <p><strong>Uptime: </strong> up 1 hour, 41 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,2Gi
+    <p><strong>Used Mem: </strong> 5,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud.jpg>The Large Cloud of Magellan</a></h4>
-    <img src="src/assets/astronomy_34f8e4f3-eee3-4a57-b76c-1ccaf07801f1.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023.jpg>Star Factory Messier 17</a></h4>
+    <img src="src/assets/astronomy_d83a2d02-4178-43a4-a285-b0c268725886.png" width="100%" height="100%"/>
   </div>
   </details>
 
