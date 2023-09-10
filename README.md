@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>09/09/2023: </strong> 🌔 Waning Crescent (0.82)
+    <p><strong>10/09/2023: </strong> 🌔 Waning Crescent (0.846)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.4.10
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 7 hours, 41 minutes
+    <p><strong>Uptime: </strong> up 2 days, 1 hour, 41 minutes
 </p>
     <p><strong>Used Mem: </strong> 6,5Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_4428.jpg>Comet Nishimura Grows</a></h4>
-    <img src="src/assets/astronomy_d27079a0-6f22-4ffd-8fd2-89fef22a3e63.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/AnnularEclipse_Pinski_1522.jpg>An Annular Solar Eclipse over New Mexico</a></h4>
+    <img src="src/assets/astronomy_6c27c6d5-19d2-469d-a93a-0dde7324726b.png" width="100%" height="100%"/>
   </div>
   </details>
 
