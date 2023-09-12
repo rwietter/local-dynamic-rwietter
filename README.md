@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>11/09/2023: </strong> 🌔 Waning Crescent (0.888)
+    <p><strong>12/09/2023: </strong> 🌔 Waning Crescent (0.913)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 4 hours, 25 minutes
+    <p><strong>Uptime: </strong> up 22 hours, 25 minutes
 </p>
-    <p><strong>Used Mem: </strong> 4,5Gi
+    <p><strong>Used Mem: </strong> 9,1Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/BeautNishimura_Horalek_1500.jpg>Beautiful Comet Nishimura</a></h4>
-    <img src="src/assets/astronomy_ed58d0e7-fc14-4e14-bc63-fec41c61ff8e.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1797x2000.jpg>Galaxy Cluster Abell 370 and Beyond</a></h4>
+    <img src="src/assets/astronomy_3f19c74b-40f1-4c33-97d2-6275c8259f1a.png" width="100%" height="100%"/>
   </div>
   </details>
 
