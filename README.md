@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>13/09/2023: </strong> 🌕 New Moon (0.947)
+    <p><strong>14/09/2023: </strong> 🌕 New Moon (0.981)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 22 hours, 25 minutes
+    <p><strong>Uptime: </strong> up 2 days, 22 hours, 25 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,0Gi
+    <p><strong>Used Mem: </strong> 7,3Gi
 </p>
-    <p><strong>Last commit: </strong> main 16 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg>NGC 4632: Galaxy with a Hidden Polar Ring</a></h4>
-    <img src="src/assets/astronomy_f7816775-086c-4581-8e23-adb5133f1218.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r.jpg>NGC 7331 and Beyond</a></h4>
+    <img src="src/assets/astronomy_ed27b11c-b447-4b34-8c64-737b49fef7c4.png" width="100%" height="100%"/>
   </div>
   </details>
 
