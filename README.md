@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>14/09/2023: </strong> 🌕 New Moon (0.99)
+    <p><strong>15/09/2023: </strong> 🌕 New Moon (0.998)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 4 hours, 25 minutes
+    <p><strong>Uptime: </strong> up 3 days, 10 hours, 25 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,7Gi
+    <p><strong>Used Mem: </strong> 7,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 6 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r.jpg>NGC 7331 and Beyond</a></h4>
-    <img src="src/assets/astronomy_b1a3d76b-0184-46b6-a67d-37aec6407ce2.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_b856eaeb-e5d2-499d-8197-934c78692343.png" width="100%" height="100%"/>
   </div>
   </details>
 
