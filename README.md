@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>15/09/2023: </strong> 🌕 New Moon (0.998)
+    <p><strong>16/09/2023: </strong> 🌕 New Moon (0.032)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 10 hours, 25 minutes
+    <p><strong>Uptime: </strong> up 1 hour, 16 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,0Gi
+    <p><strong>Used Mem: </strong> 3,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r.jpg>NGC 7331 and Beyond</a></h4>
-    <img src="src/assets/astronomy_b856eaeb-e5d2-499d-8197-934c78692343.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/IMG_3603.jpg>Venus, Moon, and the Smoking Mountain</a></h4>
+    <img src="src/assets/astronomy_2c2c6f83-4183-4c51-945e-6e1b26194332.png" width="100%" height="100%"/>
   </div>
   </details>
 
