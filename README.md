@@ -38,16 +38,16 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>16/09/2023: </strong> 🌕 New Moon (0.049)
+    <p><strong>17/09/2023: </strong> 🌔 Waxing Crescent (0.066)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 13 hours, 16 minutes
+    <p><strong>Uptime: </strong> up 2 hours, 26 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,4Gi
+    <p><strong>Used Mem: </strong> 3,1Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
@@ -55,7 +55,7 @@
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg>Fireball over Iceland</a></h4>
-    <img src="src/assets/astronomy_ee8deaf4-08c9-4d85-9be7-83f653ac156e.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_6f3d838d-8d9c-4053-b932-2f041e1a1df7.png" width="100%" height="100%"/>
   </div>
   </details>
 
