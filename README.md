@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>17/09/2023: </strong> 🌔 Waxing Crescent (0.083)
+    <p><strong>18/09/2023: </strong> 🌔 Waxing Crescent (0.117)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 14 hours, 26 minutes
+    <p><strong>Uptime: </strong> up 1 day, 14 hours, 26 minutes
 </p>
-    <p><strong>Used Mem: </strong> 4,7Gi
+    <p><strong>Used Mem: </strong> 5,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 24 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_3000.jpg>Moon Mountains Magnified during Ring of Fire Eclipse</a></h4>
-    <img src="src/assets/astronomy_4b7ba65b-6599-42ae-b417-307ba347d0c7.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_1333.jpg>The Red Sprite and the Tree</a></h4>
+    <img src="src/assets/astronomy_f4a6d634-63f7-4838-aab9-921020b8459d.png" width="100%" height="100%"/>
   </div>
   </details>
 
