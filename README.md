@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>18/09/2023: </strong> 🌔 Waxing Crescent (0.117)
+    <p><strong>19/09/2023: </strong> 🌔 Waxing Crescent (0.133)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.2
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 14 hours, 26 minutes
+    <p><strong>Uptime: </strong> up 2 days, 2 hours, 26 minutes
 </p>
-    <p><strong>Used Mem: </strong> 5,0Gi
+    <p><strong>Used Mem: </strong> 6,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 24 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
     <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_1333.jpg>The Red Sprite and the Tree</a></h4>
-    <img src="src/assets/astronomy_f4a6d634-63f7-4838-aab9-921020b8459d.png" width="100%" height="100%"/>
+    <img src="src/assets/astronomy_4c4a56e6-ea65-44e1-ae25-aa1e4659db7d.png" width="100%" height="100%"/>
   </div>
   </details>
 
