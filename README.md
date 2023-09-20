@@ -38,24 +38,24 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>20/09/2023: </strong> 🌔 Waxing Crescent (0.167)
+    <p><strong>20/09/2023: </strong> 🌔 Waxing Crescent (0.184)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 23 hours, 47 minutes
+    <p><strong>Uptime: </strong> up 1 day, 11 hours, 47 minutes
 </p>
-    <p><strong>Used Mem: </strong> 9,0Gi
+    <p><strong>Used Mem: </strong> 9,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 12 hours ago
 </p>
 
   <div>
     <hr />
-    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/HH211_webb_3846.jpg>HH 211: Jets from a Forming Star</a></h4>
-    <img src="src/assets/astronomy_b1dd5dc4-2e67-4e6e-b495-beb0d0f1ac57.png" width="100%" height="100%"/>
+    <h4>Astronomy Picture of the Day | <a href=https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_5940.jpg>Methane Discovered on Distant Exoplanet</a></h4>
+    <img src="src/assets/astronomy_023dac54-f32c-486f-a051-58797f71c5bc.png" width="100%" height="100%"/>
   </div>
   </details>
 
