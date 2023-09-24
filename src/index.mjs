@@ -20,22 +20,35 @@ import { fetchNasaPicture } from "./astro-picture-of-the-day.mjs";
 
   const [osName] = os.match(/([^:])*$/);
 
-  const { hdurl, image_title, copyright, imageRelativePath } =
-    await fetchNasaPicture();
+  try {
+    makeTemplate(/*await fetchNasaPicture(),*/ {
+      uptime,
+      osName,
+      lastCommit,
+      shell,
+      kernelVersion,
+      usedMem,
+      moonphase,
+    });
+  } catch (error) {
+    console.log(error);
+  }
 
-  const layout = template({
-    uptime,
-    osName,
-    lastCommit,
-    shell,
-    kernelVersion,
-    usedMem,
-    hdurl,
-    image_title,
-    copyright,
-    imageRelativePath,
-    moonphase
-  });
-
-  saveSongsToReadme(layout);
 })();
+
+const makeTemplate = (props) => {
+  const layout = template({
+    uptime: props.uptime,
+    osName: props.osName,
+    lastCommit: props.lastCommit,
+    shell: props.shell,
+    kernelVersion: props.kernelVersion,
+    usedMem: props.usedMem,
+    // hdurl: props.hdurl,
+    // image_title: props.image_title,
+    // copyright: props.copyright,
+    // imageRelativePath: props.imageRelativePath,
+    // moonphase: props.moonphase,
+  });
+  saveSongsToReadme(layout);
+}

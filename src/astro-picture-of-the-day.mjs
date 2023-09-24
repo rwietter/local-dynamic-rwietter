@@ -1,4 +1,4 @@
-import glob from "glob";
+import { glob } from "glob";
 import { v4 } from "uuid";
 import sharp from "sharp";
 import fetch from "node-fetch";
@@ -6,16 +6,18 @@ import child_process from "child_process";
 import dotenv from "dotenv";
 import path from "path";
 import { __filename } from "./constants.mjs";
-import axios from "axios";
+import axios from "axios"
 
 dotenv.config("dotenv");
 
 const NASA_API_KEY = process.env.NASA_API_KEY;
 
 const fetchNasaPicture = async () => {
-  const apod_res = await axios.get(
-    `https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`
-  );
+  const api = axios.create({
+    baseURL: 'https://api.nasa.gov/'
+  })
+
+  const apod_res = await api.get(`planetary/apod?api_key=${NASA_API_KEY}`);
 
   try {
     const dir = path.resolve(path.dirname(__filename), "assets");

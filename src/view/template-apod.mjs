@@ -1,4 +1,6 @@
-
+const template = (...properties) => {
+  const [props] = properties;
+  return `
   <div align="center">
     <h2> Maurício Witter 🍀 </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
@@ -38,19 +40,18 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>24/09/2023: </strong> undefined</p>
-    <p><strong>OS: </strong> Arch Linux
- ● Kernel v6.5.3
-</p>
-    <p><strong>Shell: </strong> ZSH
-</p>
-    <p><strong>Uptime: </strong> up 1 day, 16 hours, 33 minutes
-</p>
-    <p><strong>Used Mem: </strong> 7,4Gi
-</p>
-    <p><strong>Last commit: </strong> main 2 hours ago
-</p>
+    <p><strong>${new Date().toLocaleDateString()}: </strong> ${props.moonphase}</p>
+    <p><strong>OS: </strong>${props.osName} ● Kernel v${props.kernelVersion}</p>
+    <p><strong>Shell: </strong> ${props.shell.toUpperCase()}</p>
+    <p><strong>Uptime: </strong> ${props.uptime}</p>
+    <p><strong>Used Mem: </strong> ${props.usedMem}</p>
+    <p><strong>Last commit: </strong> ${props.lastCommit}</p>
 
+  <div>
+    <hr />
+    <h4>Astronomy Picture of the Day | <a href=${props.hdurl}>${props.image_title}</a></h4>
+    <img src="${props.imageRelativePath}" width="100%" height="100%"/>
+  </div>
   </details>
 
 
@@ -76,4 +77,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/rwietter)
 
   </div>
-  
+  `;
+}
+
+export { template };

@@ -12,14 +12,14 @@
     "url": "git@github.com:rwietter/rwietter.git"
   },
   "dependencies": {
-    "axios": "^0.21.0",
-    "glob": "^7.2.0",
-    "node-fetch": "2",
+    "axios": "^1.5.0",
+    "dotenv": "^16.0.0",
+    "glob": "^10.3.6",
+    "node-fetch": "3.3.2",
     "request": "^2.88.2",
-    "sharp": "^0.30.2",
-    "uuid": "^8.3.2",
-    "zx": "^6.0.6",
-    "dotenv": "^16.0.0"
+    "sharp": "^0.32.6",
+    "uuid": "^9.0.1",
+    "zx": "^7.2.3"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"

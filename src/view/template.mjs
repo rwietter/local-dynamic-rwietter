@@ -47,11 +47,6 @@ const template = (...properties) => {
     <p><strong>Used Mem: </strong> ${props.usedMem}</p>
     <p><strong>Last commit: </strong> ${props.lastCommit}</p>
 
-  <div>
-    <hr />
-    <h4>Astronomy Picture of the Day | <a href=${props.hdurl}>${props.image_title}</a></h4>
-    <img src="${props.imageRelativePath}" width="100%" height="100%"/>
-  </div>
   </details>
 
 
