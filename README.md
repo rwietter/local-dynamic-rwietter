@@ -42,13 +42,13 @@
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.3
 </p>
-    <p><strong>Shell: </strong> ZSH
+    <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 16 hours, 33 minutes
+    <p><strong>Uptime: </strong> up 1 day, 20 hours, 15 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,4Gi
+    <p><strong>Used Mem: </strong> 6,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   </details>
