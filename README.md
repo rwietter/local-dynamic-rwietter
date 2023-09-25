@@ -38,17 +38,17 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>24/09/2023: </strong> undefined</p>
+    <p><strong>25/09/2023: </strong> undefined</p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.3
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 20 hours, 15 minutes
+    <p><strong>Uptime: </strong> up 1 hour, 56 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,7Gi
+    <p><strong>Used Mem: </strong> 4,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 16 hours ago
 </p>
 
   </details>
