@@ -1,3 +1,3 @@
-git -C /home/rwietter/Documentos/github/production/rwietter add -A
-git -C /home/rwietter/Documentos/github/production/rwietter commit -m "👾"
-git -C /home/rwietter/Documentos/github/production/rwietter push origin main -f
+git -C ~/github/prod/rwietter add -A
+git -C ~/github/prod/rwietter commit -m "👾"
+git -C ~/github/prod/rwietter push origin main -f
