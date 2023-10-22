@@ -10,7 +10,7 @@
       
   <div align="center">
     <blockquote>
-        <i>An avid learner with a passion for the complexities of software development and a deep interest in the fascinating world of software engineering and Ο(algorithms), always eager to explore new ideas and technologies. 🐧 🦀 </i>
+        <i>A dedicated learner with a passion for the complexities of software development and a deep interest in the fascinating world of software engineering and algorithms, always eager to explore new ideas and technologies, contributing to the open-source community and sharing knowledge. 🐧 🦀 </i>
     </blockquote>
   </div>
 
@@ -23,12 +23,15 @@
 
   Hey there!! I am Maurício, aka [**@rwietter**](https://rwietterc.xyz/) :wave:
 
+  I am a software developer from Brazil, currently living in the city of Constantina. I love functional programming to create beautiful compositions that form declarative code. Additionally, I like contributing to open-source to create tools that help everyone.
+
   I adopt the "**Learn in Public**" philosophy and with that, everything I learn, I share with the community. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/) 
 
-  I have experience with DevOps, Web Apps and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, and **Java**.
+  I have experience with DevOps, Web Apps and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, **Elixir** and **Java**.
 
   My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.
 
+  Currently I have been studying Distributed Systems, concepts such as consensus, micro-services, pervasive computing, observability and open-telemetry.
       
   </details>
 
@@ -38,15 +41,15 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>21/10/2023: </strong> undefined</p>
+    <p><strong>22/10/2023: </strong> undefined</p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.5.3
 </p>
-    <p><strong>Shell: </strong> SH
+    <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 1 hour, 25 minutes
+    <p><strong>Uptime: </strong> up 2 days, 13 hours, 28 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,5Gi
+    <p><strong>Used Mem: </strong> 8,4Gi
 </p>
     <p><strong>Last commit: </strong> main 12 hours ago
 </p>
@@ -61,6 +64,7 @@
       <img width="34.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
       <img width="64.5%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
+      <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
     </div>
 
   </details>
