@@ -36,7 +36,7 @@
   </details>
 
   <details closed>
-    <summary align="center"> Anything else :electron: :computer: </summary>
+    <summary align="center"> System Stats :electron: :computer: </summary>
     <hr />
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
@@ -47,11 +47,11 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 2 days, 13 hours, 28 minutes
+    <p><strong>Uptime: </strong> up 2 days, 13 hours, 30 minutes
 </p>
     <p><strong>Used Mem: </strong> 8,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 47 seconds ago
 </p>
 
   </details>
@@ -61,8 +61,8 @@
     <summary align="center"> Programming Stats </summary>
     <hr />
     <div align="center">
-      <img width="34.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
-      <img width="64.5%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
+      <img width="100%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
+      <img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
     </div>
