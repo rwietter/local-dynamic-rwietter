@@ -47,11 +47,11 @@
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 21 hours, 49 minutes
+    <p><strong>Uptime: </strong> up 2 days, 3 hours, 49 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,9Gi
+    <p><strong>Used Mem: </strong> 8,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   </details>
