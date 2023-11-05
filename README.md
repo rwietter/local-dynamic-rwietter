@@ -43,15 +43,15 @@
     </div>
     <p><strong>05/11/2023: </strong> undefined</p>
     <p><strong>OS: </strong> Arch Linux
- ● Kernel v6.5.3
+ ● Kernel v6.5.9
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 week, 1 day, 1 hour, 22 minutes
+    <p><strong>Uptime: </strong> up 2 hours, 17 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,5Gi
+    <p><strong>Used Mem: </strong> 6,9Gi
 </p>
-    <p><strong>Last commit: </strong> main 12 hours ago
+    <p><strong>Last commit: </strong> main 6 hours ago
 </p>
 
   </details>
