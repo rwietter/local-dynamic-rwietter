@@ -14,8 +14,6 @@
     </blockquote>
   </div>
 
-  <hr />
-
   <div align="center">   
     <h1> About me </h1
 
@@ -45,11 +43,11 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 20 hours, 56 minutes
+    <p><strong>Uptime: </strong> up 20 hours, 57 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,7Gi
+    <p><strong>Used Mem: </strong> 8,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 40 seconds ago
+    <p><strong>Last commit: </strong> main 54 seconds ago
 </p>
 
   </div>

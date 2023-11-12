@@ -16,8 +16,6 @@ const template = (...properties) => {
     </blockquote>
   </div>
 
-  <hr />
-
   <div align="center">   
     <h1> About me </h1
 
