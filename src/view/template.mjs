@@ -18,10 +18,8 @@ const template = (...properties) => {
 
   <hr />
 
-  <details closed align="center">
-  <summary>  About me :fist_raised: :point_left: </summary>
-
-  ---
+  <div align="center>   
+    <h1>About me :fist_raised: :point_left:</h1
 
   Hey there!! I am Maurício, aka [**@rwietter**](https://rwietterc.xyz/) :wave:
 
@@ -35,11 +33,10 @@ const template = (...properties) => {
 
   Currently I have been studying Distributed Systems, concepts such as consensus, micro-services, pervasive computing, observability and open-telemetry.
       
-  </details>
+  </div>
 
-  <details closed>
-    <summary align="center"> System Stats :electron: :computer: </summary>
-    <hr />
+  <div>
+    <h1 align="center"> System Stats :electron: :computer: </h1>
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
@@ -50,12 +47,11 @@ const template = (...properties) => {
     <p><strong>Used Mem: </strong> ${props.usedMem}</p>
     <p><strong>Last commit: </strong> ${props.lastCommit}</p>
 
-  </details>
+  </div>
 
 
-  <details closed>
-    <summary align="center"> Programming Stats </summary>
-    <hr />
+  <div align="center">
+    <h1 align="center"> Programming Stats </h1>
     <div align="center">
       <img width="34.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
       <img width="64.5%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
@@ -63,9 +59,7 @@ const template = (...properties) => {
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
     </div>
 
-  </details>
-
-  <hr />
+  </div>
 
   <div align="center">
 
