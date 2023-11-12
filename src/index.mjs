@@ -44,11 +44,11 @@ const makeTemplate = (props) => {
     shell: props.shell,
     kernelVersion: props.kernelVersion,
     usedMem: props.usedMem,
-    // hdurl: props.hdurl,
-    // image_title: props.image_title,
-    // copyright: props.copyright,
-    // imageRelativePath: props.imageRelativePath,
-    // moonphase: props.moonphase,
+    hdurl: props.hdurl,
+    image_title: props.image_title,
+    copyright: props.copyright,
+    imageRelativePath: props.imageRelativePath,
+    moonphase: props.moonphase,
   });
   saveSongsToReadme(layout);
 }
