@@ -16,14 +16,14 @@
 
   <hr />
 
-  <div align="center>   
-    <h1> About me </h1
-    <p>Hey there!! I am Maurício, aka [@rwietter](https://rwietterc.xyz/)</p>
-    <p>I am a software developer from Brazil, currently living in the city of Constantina. I love functional programming to create beautiful compositions that form declarative code. Additionally, I like contributing to open-source to create tools that help everyone.</p>
-    <p>I adopt the "**Learn in Public**" philosophy and with that, everything I learn, I share with the community. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/) </p>
-    <p>I have experience with DevOps, Web Apps and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, **Elixir** and **Java**.</p>
-    <p>My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.</p>  
-  </div>
+<div align="center>   
+  <h1> About me </h1
+  <p>Hey there!! I am Maurício, aka [@rwietter](https://rwietterc.xyz/)</p>
+  <p>I am a software developer from Brazil, currently living in the city of Constantina. I love functional programming to create beautiful compositions that form declarative code. Additionally, I like contributing to open-source to create tools that help everyone.</p>
+  <p>I adopt the "**Learn in Public**" philosophy and with that, everything I learn, I share with the community. I love writing about software engineering and technology on my website [rwietter](https://rwietterc.xyz/) and [substack](https://rwietter.substack.com/) </p>
+  <p>I have experience with DevOps, Web Apps and Back-end APIs. My main knowledge in technologies are **Typescript**, **Node**, **Docker**, **React**, **Svelte**. I am also comfortable using **Vue**, **Golang**, **Elixir** and **Java**.</p>
+  <p>My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.</p>  
+</div>
 
   <div>
     <h1 align="center"> System Stats </h1>
@@ -37,11 +37,11 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 20 hours, 54 minutes
+    <p><strong>Uptime: </strong> up 20 hours, 55 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,0Gi
+    <p><strong>Used Mem: </strong> 7,8Gi
 </p>
-    <p><strong>Last commit: </strong> main 2 minutes ago
+    <p><strong>Last commit: </strong> main 24 seconds ago
 </p>
 
   </div>
