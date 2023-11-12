@@ -30,7 +30,7 @@
   My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.
 
   Currently I have been studying Distributed Systems, concepts such as consensus, micro-services, pervasive computing, observability and open-telemetry.
-      
+        
   </div>
 
   <div>
@@ -44,11 +44,11 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 20 hours, 50 minutes
+    <p><strong>Uptime: </strong> up 20 hours, 51 minutes
 </p>
     <p><strong>Used Mem: </strong> 7,7Gi
 </p>
-    <p><strong>Last commit: </strong> main 3 minutes ago
+    <p><strong>Last commit: </strong> main 72 seconds ago
 </p>
 
   </div>

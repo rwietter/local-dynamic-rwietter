@@ -32,7 +32,7 @@ const template = (...properties) => {
   My main abilities include designing APIs, command-line interface, applying software testing methodologies, API modeling following software design principles, and refactoring code into nice abstractions.
 
   Currently I have been studying Distributed Systems, concepts such as consensus, micro-services, pervasive computing, observability and open-telemetry.
-      
+        
   </div>
 
   <div>
