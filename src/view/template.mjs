@@ -2,7 +2,7 @@ const template = (...properties) => {
   const [props] = properties;
   return `
   <div align="center">
-    <h2> Maurício Witter 🍀 </h2>
+    <h2> Maurício Witter </h2>
     <span> Software Developer | Free and open-source software enthusiast </span>
   </div>
 
@@ -19,9 +19,9 @@ const template = (...properties) => {
   <hr />
 
   <div align="center>   
-    <h1>About me :fist_raised: :point_left:</h1
+    <h1> About me </h1
 
-  Hey there!! I am Maurício, aka [**@rwietter**](https://rwietterc.xyz/) :wave:
+  Hey there!! I am Maurício, aka [@rwietter](https://rwietterc.xyz/)
 
   I am a software developer from Brazil, currently living in the city of Constantina. I love functional programming to create beautiful compositions that form declarative code. Additionally, I like contributing to open-source to create tools that help everyone.
 
@@ -36,7 +36,7 @@ const template = (...properties) => {
   </div>
 
   <div>
-    <h1 align="center"> System Stats :electron: :computer: </h1>
+    <h1 align="center"> System Stats </h1>
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
