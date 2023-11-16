@@ -36,18 +36,18 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>12/11/2023: </strong> 🌕 New Moon (0.981)
+    <p><strong>16/11/2023: </strong> 🌔 Waxing Crescent (0.114)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.6.1
 </p>
-    <p><strong>Shell: </strong> ZSH
+    <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 20 hours, 57 minutes
+    <p><strong>Uptime: </strong> up 18 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,0Gi
+    <p><strong>Used Mem: </strong> 4,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 54 seconds ago
+    <p><strong>Last commit: </strong> main 4 days ago
 </p>
 
   </div>
