@@ -36,18 +36,18 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>26/11/2023: </strong> 🌑 Full Moon (0.469)
+    <p><strong>27/11/2023: </strong> 🌑 Full Moon (0.487)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.6.1
 </p>
-    <p><strong>Shell: </strong> ZSH
+    <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 1 day, 22 hours, 31 minutes
+    <p><strong>Uptime: </strong> up 2 hours, 23 minutes
 </p>
-    <p><strong>Used Mem: </strong> 9Gi
+    <p><strong>Used Mem: </strong> 7,0Gi
 </p>
-    <p><strong>Last commit: </strong> main 10 days ago
+    <p><strong>Last commit: </strong> main 13 hours ago
 </p>
 
   </div>
