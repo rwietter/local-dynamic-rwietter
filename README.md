@@ -36,16 +36,16 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>01/12/2023: </strong> 🌒 Waning Gibbous (0.622)
+    <p><strong>05/12/2023: </strong> 🌒 Last Quarter (0.758)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.6.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 1 hour, 1 minute
+    <p><strong>Uptime: </strong> up 2 days, 20 hours, 50 minutes
 </p>
-    <p><strong>Used Mem: </strong> 8,9Gi
+    <p><strong>Used Mem: </strong> 3,5Gi
 </p>
     <p><strong>Last commit: </strong> main 3 days ago
 </p>
