@@ -31,38 +31,39 @@
         
   </div>
 
-  <div>
-    <h1 align="center"> System Stats </h1>
+  <details closed>
+    <summary align="center"> System Stats </summary>
+    <hr />
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>07/12/2023: </strong> 🌒 Last Quarter (0.809)
+    <p><strong>07/12/2023: </strong> 🌔 Waning Crescent (0.823)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.6.1
 </p>
-    <p><strong>Shell: </strong> SH
+    <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 2 hours, 32 minutes
+    <p><strong>Uptime: </strong> up 12 hours, 49 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,4Gi
+    <p><strong>Used Mem: </strong> 6,2Gi
 </p>
-    <p><strong>Last commit: </strong> main 4 hours ago
+    <p><strong>Last commit: </strong> main 10 hours ago
 </p>
 
-  </div>
+  </details>
 
 
-  <div align="center">
-    <h1 align="center"> Programming Stats </h1>
-    <div align="center">
+  <details closed>
+    <summary align="center"> Programming Stats </summary>
+    <hr />
       <img width="34.5%" alt="used programming languages statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwietter&langs_count=10&layout=compact&exclude_repo=dotfs,blog-posts,dotfiles-bspwm"/>
       <img width="64.5%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rwietter&layout=compact&langs_count=8"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rwietter&theme=default&hide_border=false"/>
       <img width="100%" height="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rwietter&show_icons=true&count_private=true&hide_border=true"/>
-    </div>
+  </details>
 
-  </div>
+  <hr />
 
   <div align="center">
 
