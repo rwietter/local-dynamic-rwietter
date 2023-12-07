@@ -36,18 +36,18 @@
     <div align="right">
       <img width="230" height="230" align="right" title="A Tux icon" src="https://i.imgur.com/sgOrQYi.png"/>
     </div>
-    <p><strong>06/12/2023: </strong> 🌒 Last Quarter (0.792)
+    <p><strong>07/12/2023: </strong> 🌒 Last Quarter (0.809)
 </p>
     <p><strong>OS: </strong> Arch Linux
  ● Kernel v6.6.1
 </p>
     <p><strong>Shell: </strong> SH
 </p>
-    <p><strong>Uptime: </strong> up 3 days, 20 hours, 50 minutes
+    <p><strong>Uptime: </strong> up 2 hours, 32 minutes
 </p>
-    <p><strong>Used Mem: </strong> 7,6Gi
+    <p><strong>Used Mem: </strong> 7,4Gi
 </p>
-    <p><strong>Last commit: </strong> main 20 hours ago
+    <p><strong>Last commit: </strong> main 4 hours ago
 </p>
 
   </div>
