@@ -33,6 +33,8 @@ const template = (...properties) => {
         
   </div>
 
+  <hr />
+
   <details closed>
     <summary align="center"> System Stats </summary>
     <hr />

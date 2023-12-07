@@ -31,6 +31,8 @@
         
   </div>
 
+  <hr />
+
   <details closed>
     <summary align="center"> System Stats </summary>
     <hr />
@@ -44,11 +46,11 @@
 </p>
     <p><strong>Shell: </strong> ZSH
 </p>
-    <p><strong>Uptime: </strong> up 12 hours, 49 minutes
+    <p><strong>Uptime: </strong> up 12 hours, 50 minutes
 </p>
-    <p><strong>Used Mem: </strong> 6,2Gi
+    <p><strong>Used Mem: </strong> 6,6Gi
 </p>
-    <p><strong>Last commit: </strong> main 10 hours ago
+    <p><strong>Last commit: </strong> main 31 seconds ago
 </p>
 
   </details>
